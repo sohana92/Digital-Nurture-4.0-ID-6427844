@@ -1,0 +1,18 @@
+Understanding Asymptotic Notation (Big O):
+
+Big O notation describes how an algorithm's performance scales with input size, focusing on the worst-case scenario:
+
+O(1): Constant time (instant)
+
+O(log n): Logarithmic time (very fast)
+
+O(n): Linear time (proportional to input size)
+
+O(n²): Quadratic time (slows quickly with large inputs)
+
+Search Operation Scenarios
+Best case: Item is found immediately (first element for linear, middle for binary)
+
+Average case: Item is found after checking half the elements (linear) or log(n) elements (binary)
+
+Worst case: Item is last checked (linear) or doesn't exist (both)

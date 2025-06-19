@@ -1,0 +1,17 @@
+Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem. It simplifies problems that can be broken down into identical subproblems.
+
+Key characteristics:
+
+Base case (stopping condition)
+
+Recursive case (function calls itself)
+
+Progress toward base case
+
+For financial forecasting, recursion is useful for:
+
+Compound growth calculations
+
+Time-series predictions
+
+Multi-period forecasting

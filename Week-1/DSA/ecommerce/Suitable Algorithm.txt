@@ -1,0 +1,11 @@
+
+Use Linear Search:
+
+When dataset is small or dynamic (frequent inserts/deletes).
+
+Use Binary Search:
+
+For high-performance needs, read-heavy apps.
+
+Ensure data is sorted beforehand (ideally via indexed DB or in-memory structures).
+

@@ -1,0 +1,9 @@
+Time Complexity:
+Recursive: O(n) — one call per year
+
+Memoized: O(n) — but avoids recomputation (good for variations or if reused)
+
+Optimization Tips:
+Use memoization or iterative approach to avoid stack overflows or repeated work
+
+For large n, prefer loops or even closed-form solutions (e.g., Math.pow())
